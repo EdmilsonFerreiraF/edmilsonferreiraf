@@ -11,34 +11,39 @@
 
 <br/>
 
-<img align="center" alt="Coding" width="400" src="https://i1.wp.com/www.cbvinylrecordart.com/blog/wp-content/uploads/2015/06/classic-vinyl.gif?resize=500%2C281">
+<div width="100%" align="center">
+  <img align="center" alt="Coding" width="400" src="https://i1.wp.com/www.cbvinylrecordart.com/blog/wp-content/uploads/2015/06/classic-vinyl.gif?resize=500%2C281">
+</div>
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edmilsonferreiraf&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br/><br/>
+<div width="100%" align="center">
+  <a href="https://git.io/streak-stats">
+  <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edmilsonferreiraf&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edmilsonferreiraf&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+  <br/><br/>
 
-<a href="https://github.com/anuraghazra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmilsonferreiraf&show_icons=true&theme=radical" />
-</a>
+  <a href="https://github.com/anuraghazra">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmilsonferreiraf&show_icons=true&theme=radical" />
+  </a>
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsonferreiraf&layout=compact" />
-</a>
-
-<br/>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edmilsonferreiraf" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" height="195">
+    <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsonferreiraf&theme=radical&layout=compact" />
+  </a>
+</div>
 
 <br/>
 <br/>
+<br/>
 
-<a href="https://github.com/EdmilsonFerreiraF/react_social_media">
+<div width="100%" align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edmilsonferreiraf" />
+  </a>
+  <br/>
+
+<br/>
+  <a href="https://github.com/EdmilsonFerreiraF/react_social_media">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edmilsonferreiraf&repo=react_social_media" />
 </a>
 <a href="https://github.com/edmilsonferreiraf/lama-frontend">
@@ -47,3 +52,7 @@
 <a href="https://github.com/edmilsonferreiraf/loja-virtual">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edmilsonferreiraf&repo=loja-virtual" />
 </a>
+</div>
+
+
+
