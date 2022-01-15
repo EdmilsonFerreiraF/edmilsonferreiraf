@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a science and technology lover, who codes in the most part of the time.
+Moreover, an idealist, pets lover, also a gamer
 
 - 🔭 I’m currently looking for jobs
 - 🌱 I’m currently learning NodeJS, GraphQL, Docker, Stripe
