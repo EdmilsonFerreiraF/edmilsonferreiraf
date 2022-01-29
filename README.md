@@ -23,13 +23,12 @@ I'm a science and technology lover, who codes in the most part of the time.
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edmilsonferreiraf&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   <br/><br/>
-
   <a href="https://github.com/anuraghazra">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmilsonferreiraf&show_icons=true&theme=radical" />
   </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" height="195">
-    <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsonferreiraf&theme=radical&layout=compact" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsonferreiraf&theme=radical&layout=compact&langs_count=8" />
   </a>
 </div>
 
@@ -39,21 +38,18 @@ I'm a science and technology lover, who codes in the most part of the time.
 
 <div width="100%" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edmilsonferreiraf" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=@edmilsonferreiraf" />
   </a>
   <br/>
 
-<br/>
+  <br/>
   <a href="https://github.com/EdmilsonFerreiraF/react_social_media">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edmilsonferreiraf&repo=react_social_media" />
-</a>
-<a href="https://github.com/edmilsonferreiraf/lama-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edmilsonferreiraf&repo=lama-frontend" />
-</a>
-<a href="https://github.com/edmilsonferreiraf/loja-virtual">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edmilsonferreiraf&repo=loja-virtual" />
-</a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edmilsonferreiraf&repo=react_social_media" />
+  </a>
+  <a href="https://github.com/edmilsonferreiraf/lama-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edmilsonferreiraf&repo=lama-frontend" />
+  </a>
+  <a href="https://github.com/edmilsonferreiraf/loja-virtual">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edmilsonferreiraf&repo=loja-virtual" />
+  </a>
 </div>
-
-
-
