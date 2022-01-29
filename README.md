@@ -12,12 +12,12 @@ I'm a science and technology lover, who codes in the most part of the time.
 
 <br/>
 
-<div width="100%" align="center">
+<div align="center">
   <img align="center" alt="Coding" width="400" src="https://i1.wp.com/www.cbvinylrecordart.com/blog/wp-content/uploads/2015/06/classic-vinyl.gif?resize=500%2C281">
 </div>
 <br/>
 
-<div width="100%" align="center">
+<div align="center">
   <a href="https://git.io/streak-stats">
   <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edmilsonferreiraf&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edmilsonferreiraf&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
