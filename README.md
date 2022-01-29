@@ -13,8 +13,10 @@ I'm a science and technology lover, who codes in the most part of the time.
 <br/>
 
 <div align="center">
-  <img align="center" alt="Coding" width="400" src="https://i1.wp.com/www.cbvinylrecordart.com/blog/wp-content/uploads/2015/06/classic-vinyl.gif?resize=500%2C281">
+  <img align="center" alt="Coding" width="495"src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/980px/public/media/image/2020/05/final-fantasy-xiv-1948935.jpg?itok=th-Gpmp4">
 </div>
+<br/>
+<br/>
 <br/>
 
 <div align="center">
