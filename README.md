@@ -26,10 +26,10 @@ I'm a science and technology lover, who codes in the most part of the time.
   </a>
   <br/><br/>
   <a href="https://github.com/anuraghazra">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmilsonferreiraf&show_icons=true&theme=radical" />
+    <img align="center" height="190" src="https://github-readme-stats.vercel.app/api?username=edmilsonferreiraf&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsonferreiraf&theme=radical&layout=compact&langs_count=8" />
+    <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsonferreiraf&theme=radical&layout=compact&langs_count=8" />
   </a>
 </div>
 
