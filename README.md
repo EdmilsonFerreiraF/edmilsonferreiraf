@@ -2,7 +2,7 @@
 I'm a science and technology lover, who codes in the most part of the time.
 
 - 🔭 I’m currently looking for jobs
-- 🌱 I’m currently learning NodeJS, GraphQL, Docker, Stripe
+- 🌱 I’m currently learning NodeJS, GraphQL, Docker, Strapi
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with web development
 - 💬 Ask me about science and technology
