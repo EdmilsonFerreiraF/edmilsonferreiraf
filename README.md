@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm a science and technology lover, who also enjoy coding and gaming.
 
+ “The union of the mathematician with the poet, fervor with measure, passion with correctness, this surely is the ideal.”
+  –William James
+
 - 🔭 I’m currently looking for jobs
 - 🌱 I’m currently learning NodeJS, GraphQL, Docker, Strapi
 - 👯 I’m looking to collaborate on projects
